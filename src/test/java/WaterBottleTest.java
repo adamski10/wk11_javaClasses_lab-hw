@@ -8,7 +8,7 @@ public class WaterBottleTest {
 
     @Before
     public void before() {
-        this.bottle = new WaterBottle(100);
+        this.bottle = new WaterBottle();
     }
 
     @Test
